@@ -1,0 +1,17 @@
+.homeHeading{
+    text-align: center;
+    color: aqua;
+  }
+.link {
+    color: #f2246c;
+
+}
+.container{
+    border: 5px solid #82e8c3;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.linkHeading{
+    text-align: center;
+}

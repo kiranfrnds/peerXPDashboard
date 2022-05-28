@@ -1,0 +1,17 @@
+.filterCards {
+      padding: 10px;
+      max-height: 395px;
+      overflow-y: auto;
+      max-width: 366px;
+      background: #d5dffbba;
+      border: 0.2px solid black;
+      border-radius: 20px;
+      transition: all 0.5s ease-in-out;
+      background: #d5dffbba;
+}
+  
+
+.filterCards:hover{
+  box-shadow: 7px 32px 44px -19px black;
+  cursor: pointer;
+}

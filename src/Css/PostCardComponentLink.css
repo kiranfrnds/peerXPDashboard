@@ -1,0 +1,22 @@
+.PostCardComponent{
+border:0.2px solid black;
+border-radius: 20px;
+max-height: 100%;
+min-height: 200px;
+padding:10px;
+transition: all 0.5s ease-in-out;
+
+background: #d5dffbba;
+
+}
+.PostCardComponent:hover{
+    box-shadow: 7px 32px 44px -19px black;
+    cursor: pointer;
+}
+a, a:visited {
+    color: inherit;
+}
+h2,p{
+    text-decoration: none;
+    list-style-type: none;
+}
